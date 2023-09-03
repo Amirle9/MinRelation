@@ -22,3 +22,4 @@ C:\Users\amirl\OneDrive\שולחן העבודה\Tipalti\Assignment\Tipalti_Assig
 C:\Users\amirl\OneDrive\שולחן העבודה\Tipalti\Assignment\Tipalti_Assignment\Tipalti_Assignment\obj\Debug\Tipalti_Assignment.csproj.CopyComplete
 C:\Users\amirl\OneDrive\שולחן העבודה\Tipalti\Assignment\Tipalti_Assignment\Tipalti_Assignment\obj\Debug\Tipalti_Assignment.exe
 C:\Users\amirl\OneDrive\שולחן העבודה\Tipalti\Assignment\Tipalti_Assignment\Tipalti_Assignment\obj\Debug\Tipalti_Assignment.pdb
+C:\Users\amirl\OneDrive\שולחן העבודה\Tipalti\Assignment\Tipalti_Assignment\Tipalti_Assignment\obj\Debug\Tipalti_Assignment.csproj.AssemblyReference.cache
